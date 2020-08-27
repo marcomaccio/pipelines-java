@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/marcomaccio/AzureDevOps-experiments/_apis/build/status/marcomaccio.pipelines-java?branchName=master)](https://dev.azure.com/marcomaccio/AzureDevOps-experiments/_build/latest?definitionId=3&branchName=master)
 
 # Contributing
 
